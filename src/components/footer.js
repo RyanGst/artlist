@@ -16,7 +16,7 @@ function Footer() {
           >
             @ryangst
           </a>
-          <br/>
+          {" "}
           <a
             href="https://github.com/pedro-afk"
             className="text-gray-600 ml-1"
@@ -25,7 +25,7 @@ function Footer() {
           >
             @pedrogiamarco
           </a>
-          <br/>
+          {" "}
           <a
             href="https://github.com/Nic-Dev-97"
             className="text-gray-600 ml-1"
@@ -34,7 +34,7 @@ function Footer() {
           >
             @nicolasbonfim
           </a>
-          <br/>
+          {" "}
           <a
             href="https://github.com/Artspessoto"
             className="text-gray-600 ml-1"
@@ -43,7 +43,7 @@ function Footer() {
           >
             @arthur_spessoto
           </a>
-          <br/>
+          {" "}
           <a
             href="https://github.com/Szznorlax"
             className="text-gray-600 ml-1"

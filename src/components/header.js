@@ -8,10 +8,10 @@ const navigation = [
     routeName: "Dashboard",
     path: "/",
   },
-  {
-    routeName: "Favoritos",
-    path: "/favorites",
-  },
+  // {
+  //   routeName: "Favoritos",
+  //   path: "/favorites",
+  // },
 ];
 
 export default function Header() {
