@@ -1,3 +1,6 @@
+## Artlist
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8d04eae5-8315-406e-868b-4638e420cc2a/deploy-status)](https://app.netlify.com/sites/lucid-shirley-976883/deploys)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
